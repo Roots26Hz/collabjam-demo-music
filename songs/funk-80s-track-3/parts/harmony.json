@@ -8,73 +8,73 @@
       "time": "0:0:0",
       "note": "A3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.58
     },
     {
       "time": "0:0:0",
       "note": "C4",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.61
     },
     {
       "time": "0:0:0",
       "note": "E4",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.58
     },
     {
       "time": "1:0:0",
       "note": "F3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.61
     },
     {
       "time": "1:0:0",
       "note": "A3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.58
     },
     {
       "time": "1:0:0",
       "note": "C4",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.61
     },
     {
       "time": "2:0:0",
       "note": "D3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.58
     },
     {
       "time": "2:0:0",
       "note": "F3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.61
     },
     {
       "time": "2:0:0",
       "note": "A3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.58
     },
     {
       "time": "3:0:0",
       "note": "E3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.61
     },
     {
       "time": "3:0:0",
       "note": "G#3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.58
     },
     {
       "time": "3:0:0",
       "note": "B3",
       "duration": "1m",
-      "velocity": 0.5
+      "velocity": 0.61
     }
   ]
 }
