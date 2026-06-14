@@ -1,12 +1,12 @@
 {
-  "id": "7ad5f790-07c7-4cf1-9085-1c07664cb591",
-  "slug": "funk-80s-track-4",
+  "id": "0cfaea8e-b475-4b3c-ae7c-3d982911842f",
+  "slug": "funk-80s-track",
   "title": "Funk 80s Track",
   "stylePrompt": "Punchy neon funk with crisp drums and a warm analog bassline",
   "bpm": 112,
   "key": "A minor",
   "timeSignature": "4/4",
   "status": "draft",
-  "createdAt": "2026-06-14T11:26:36.355Z",
-  "updatedAt": "2026-06-14T11:26:36.355Z"
+  "createdAt": "2026-06-14T17:42:54.970Z",
+  "updatedAt": "2026-06-14T17:42:54.970Z"
 }
